@@ -1,2 +1,1 @@
-# testing
 Banane su žute.
